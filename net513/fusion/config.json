@@ -1,0 +1,11 @@
+{
+    "batch_size": 8,
+    "n_epochs": 30,
+    "lr": 5e-5,
+    "weight_decay": 5e-4,
+    "use_cuda": true,
+    "data_folder": "/home/fereshteh/code_513/fusion",
+    "kaist_path" : "/home/fereshteh/kaist",
+    "backbone_network" : "MobileNetV2"
+}
+
