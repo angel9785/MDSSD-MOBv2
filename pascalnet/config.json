@@ -1,0 +1,12 @@
+{
+    "batch_size": 8,
+    "n_epochs": 80,
+    "lr": 1e-3,
+    "weight_decay": 5e-4,
+    "use_cuda": true,
+    "data_folder": "/home/fereshteh/code/SSD_MobileNet-master/dataset",
+    "voc07_path" : "/home/fereshteh/code/SSD_MobileNet-master/dataset/VOCdevkit/VOC2007",
+    "voc12_path" : "/home/fereshteh/code/SSD_MobileNet-master/dataset/VOCdevkit2012/VOC2012",
+    "backbone_network" : "MobileNetV2"
+}
+
